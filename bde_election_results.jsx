@@ -793,7 +793,7 @@ export default function App() {
               marginBottom: "8px",
             }}
           >
-            Bureau des Étudiants · 2026
+            Bureau Des Elèves · 2026
           </div>
           <h1
             style={{
